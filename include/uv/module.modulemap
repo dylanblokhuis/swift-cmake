@@ -1,0 +1,4 @@
+module LibUv {
+  header "shim2.h"
+  export *
+}
